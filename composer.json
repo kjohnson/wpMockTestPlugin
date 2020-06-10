@@ -1,5 +1,5 @@
 {
-    "name"       : "kjohnson/wpMockTestPlugin",
+    "name"       : "kjohnson/wp-mock-test-plugin",
 	"description": "A test plugin with WP_Mock.",
 	"license"    : "GPL-2.0-or-later",
     "require-dev": {
