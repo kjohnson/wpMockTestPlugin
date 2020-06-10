@@ -1,4 +1,7 @@
 {
+    "name"       : "kjohnson/wpMockTestPlugin",
+	"description": "A test plugin with WP_Mock.",
+	"license"    : "GPL-2.0-or-later",
     "require-dev": {
         "10up/wp_mock": "0.4.2",
         "phpunit/phpunit": "^9"
